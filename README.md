@@ -10,4 +10,7 @@ Pregunta 2:
 [bf] Executing as Brainfuck code...
 Hello World!
 
-
+Pregunta 3:
+Traduzcan la siguiente frase a clave morse:
+ye shall be as gods
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
