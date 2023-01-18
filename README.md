@@ -1,5 +1,7 @@
 #Laboratorio 1
 
+
+
 - (50 pts) Pregunta 1:
 En zork, ¿qué hay al subir las gradas dentro de la casa?
 
