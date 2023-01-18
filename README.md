@@ -1,23 +1,23 @@
 #Laboratorio 1
 
-- Pregunta 1:
+- (50 pts) Pregunta 1:
 En zork, ¿qué hay al subir las gradas dentro de la casa?
 El ático, hay un ladrillo que parece ser plastilina, un rollo de cuerda y un cuchillo.
 
-- Pregunta 2:
+- (20 pts) Pregunta 2:
 ¿Cuál es el output de éste programa de Brainf*ck ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.?
 
 [bf] Executing as Brainfuck code...
 Hello World!
 
-- Pregunta 3:
+- (10 pts) Pregunta 3:
 Traduzcan la siguiente frase a clave morse:
 ye shall be as gods
 
 -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
 
 
-- Pregunta 4:
+- (20 pts) Pregunta 4:
 
  Copien el titulo, la fecha de publicación y el primer parrafo de dos de los siguientes rfc históricos:
 318
